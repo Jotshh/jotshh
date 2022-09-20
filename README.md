@@ -10,6 +10,13 @@
   <img align="center" alt="Josiel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Josiel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josiel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Josiel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Josiel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Josiel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          
+          
+          
+  
   <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" 
   src="https://instagram.fpmg1-1.fna.fbcdn.net/v/t51.2885-19/307421658_629247442095902_7506701920552185132_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpmg1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=FJY3mEMZ2k8AX-Mlp0_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT86MMKEgqCa5xgM8Ex1oKCb8x2I-tZgiIRdyahuJHC56A&oe=632E503A&_nc_sid=8fd12b">
 </div>
@@ -24,5 +31,5 @@
   ##
 
 - 🔭 Trabalhando com um site institucional...
-- 🌱 Estudando React Native, MySql e Css...
+- 🌱 Estudando React Native, MySql, Css, C++...
 
