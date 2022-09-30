@@ -18,7 +18,7 @@
           
   
   <img align="right" alt="Josiel-pic" height="150" style="border-radius:50px;" 
-  src="https://instagram.fpmg1-1.fna.fbcdn.net/v/t51.2885-19/307421658_629247442095902_7506701920552185132_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpmg1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=FJY3mEMZ2k8AX-Mlp0_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT86MMKEgqCa5xgM8Ex1oKCb8x2I-tZgiIRdyahuJHC56A&oe=632E503A&_nc_sid=8fd12b">
+  src="https://avatars.githubusercontent.com/u/93806917?v=4">
 </div>
 
 ##
