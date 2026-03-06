@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1>Mobile Full Stack Developer</h1>
+  <h1>Full Stack Developer</h1>
   <p><b>React Native | TypeScript | Firebase | Python | Node.js</b></p>
 </div>
 
