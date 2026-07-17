@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <h1>Full Stack Developer</h1>
-  <p><b>React Native | TypeScript | Firebase | Python | Node.js</b></p>
+  <h1>Developer</h1>
+  <p><b>React Native | TypeScript | Firebase | Python | Node.js | C</b></p>
 </div>
 
 <div align="center">
@@ -41,5 +41,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiel-phelipe/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josiephelipel265@gmail.com)
+
+</div>
+
+<div align="center">
+
+## Visualizações
+
+![jotshh-profile-views-counter](https://komarev.com/ghpvc/?username=Jotshh&color=383838&label=GitHub+Views&abbreviated=true)
 
 </div>
